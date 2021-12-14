@@ -7,6 +7,6 @@
 ## roles：角色页面
 ![image](https://qiqiaojudge.oss-cn-beijing.aliyuncs.com/file/3.png)
 ## blog：博客页面
-![image](https://qiqiaojudge.oss-cn-beijing.aliyuncs.com/file/4.png)
+![image](https://qiqiaojudge.oss-cn-beijing.aliyuncs.com/file/QQ%E6%88%AA%E5%9B%BE20211214184330.png)
 ## concact：联系页面
 ![image](https://qiqiaojudge.oss-cn-beijing.aliyuncs.com/file/5.png)
